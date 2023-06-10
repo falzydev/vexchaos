@@ -88,6 +88,6 @@ python3 main.py
 
 ## 🔗 Links
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/op_v0)
-[![Instagram](https://img.shields.io/badge/Whatsapp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/userpericoloso)
-[![Whatsapp](https://img.shields.io/badge/Instagram-5dcc2d?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+17474995494)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vexchaos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/multimiliardario)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-5dcc2d?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+17474995494)
