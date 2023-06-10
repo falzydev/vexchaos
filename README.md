@@ -15,7 +15,7 @@ You only need these elements to execute the script.<br>
 <i>You need to insert the tokens into the "tokens.py" file</i>
 
 ## SETUP
-Open <i>tokens.py</i> and edit each line with your tokens<br><br>
+Open <code>tokens.py</code> and edit each line with your tokens<br><br>
 <h4><strong>TELEGRAM TOKENS</strong></h4>
 You can obtain your API ID and API hash here --> https://my.telegram.org<br><br>
 
@@ -26,6 +26,7 @@ Log into https://poe.com on any desktop web browser, then open your browser's de
 <li>Firefox: Devtools > Storage > Cookies</li>
 <li>Safari: Devtools > Storage > Cookies</li>
 </ul>
+<strong><i>You also need to create a bot on poe.com and add its name into the <code>tokens.py</code> file
 
 ## How to run
 
