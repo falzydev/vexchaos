@@ -46,6 +46,10 @@ pkg install python && pkg install git
 ```bash
 pip install pyrogram nltk ftplib warnings poe-api googlesearch-python urllib requests beautifulsoup4 datetime pytz
 ```
+or
+```bash
+pip3 install pyrogram nltk ftplib warnings poe-api googlesearch-python urllib requests beautifulsoup4 datetime pytz
+```
 
 4. Install my project:
 
